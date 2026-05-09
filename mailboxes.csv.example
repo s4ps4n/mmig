@@ -1,0 +1,4 @@
+email,app_password,new_password,maxage
+info@example.ru,OLD_APP_PASSWORD_HERE,NewStrongPassword123!,30
+order@example.ru,OLD_APP_PASSWORD_HERE,NewStrongPassword123!,30
+buh@example.ru,OLD_APP_PASSWORD_HERE,NewStrongPassword123!,90

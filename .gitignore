@@ -1,0 +1,8 @@
+config.env
+mailboxes.csv
+logs/
+*.log
+*.bak
+*.tmp
+*.private
+.DS_Store
